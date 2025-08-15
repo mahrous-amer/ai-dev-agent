@@ -1,0 +1,23 @@
+# AI Models & LLMs
+openai
+
+langchain[openai]
+langchain-community
+
+crewai[embeddings]
+python-dotenv
+
+# Memory Storage
+chromadb
+redis
+
+# DevOps & GitHub Integration
+github3.py
+requests
+
+# Testing & Code Execution
+pytest
+
+# CLI, Notifications & Utilities
+typer
+rich
